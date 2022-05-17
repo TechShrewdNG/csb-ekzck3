@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://techshrewdng.github.io/csb-ekzck3/static/css/main.7104f19d.chunk.css",
+    "main.js": "https://techshrewdng.github.io/csb-ekzck3/static/js/main.2426fea1.chunk.js",
+    "main.js.map": "https://techshrewdng.github.io/csb-ekzck3/static/js/main.2426fea1.chunk.js.map",
+    "runtime-main.js": "https://techshrewdng.github.io/csb-ekzck3/static/js/runtime-main.13d93338.js",
+    "runtime-main.js.map": "https://techshrewdng.github.io/csb-ekzck3/static/js/runtime-main.13d93338.js.map",
+    "static/js/2.5dc51540.chunk.js": "https://techshrewdng.github.io/csb-ekzck3/static/js/2.5dc51540.chunk.js",
+    "static/js/2.5dc51540.chunk.js.map": "https://techshrewdng.github.io/csb-ekzck3/static/js/2.5dc51540.chunk.js.map",
+    "index.html": "https://techshrewdng.github.io/csb-ekzck3/index.html",
+    "static/css/main.7104f19d.chunk.css.map": "https://techshrewdng.github.io/csb-ekzck3/static/css/main.7104f19d.chunk.css.map",
+    "static/js/2.5dc51540.chunk.js.LICENSE.txt": "https://techshrewdng.github.io/csb-ekzck3/static/js/2.5dc51540.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "https://techshrewdng.github.io/csb-ekzck3/static/media/59357e5365d2386170c9f8bacd7f1286488d7af06e74680d3fa421ac85543f1fc843ccbf06e7319c138e748d97339da8588ca75ac4c258182dd911_1280.c3f94521.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d93338.js",
+    "static/js/2.5dc51540.chunk.js",
+    "static/css/main.7104f19d.chunk.css",
+    "static/js/main.2426fea1.chunk.js"
+  ]
+}
